@@ -11,7 +11,7 @@ module.exports = {
       },
       colors: {
         bodyColor: "#212428",
-        lightText: "c4cfde",
+        lightText: "#FBF0E2",
         lightBg: "inner-gradient(145deg, #1e2024 , #23272b)",
         designColor:"#ff014f"
       },

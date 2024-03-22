@@ -1,10 +1,9 @@
 // import all images from image folder
+import logo from './logo.png';
 
 // export files
 
 export  {
-    image1,
-    image2,
-    image3,
-    image4
+    logo,
+   
 };
